@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Midhun (@midhunexeter)
-- 👀 I’m interested in Mathematical modelling, Signal processing and machine learning research.
+- 👀 I’m interested in Mathematical modelling (Dynamical systems theory), Signal processing (SP) and Machine learning research (ML).
 - 🌱 I’m always learning something
-- 💞️ I’m looking to collaborate on ML and AI.
+- 💞️ I’m looking to collaborate on Differntial and difference equation based modelling ML and SP.
 - 📫 Reach me by email: midhungecster@gmail.com
 
 <!---
